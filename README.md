@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-
+# A simple two players Tic-Tac-Toe game.
